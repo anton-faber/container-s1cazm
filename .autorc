@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "anton-faber",
+  "repo": "container-s1cazm",
+  "name": "anton-faber",
+  "email": "bruteforce418@gmail.com",
+}
